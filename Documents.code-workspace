@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "TPGit",
+			"path": "../../../TPGit/TPGit"
+		}
+	],
+	"settings": {}
+}
